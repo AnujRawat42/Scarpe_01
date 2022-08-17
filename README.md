@@ -2,7 +2,7 @@
 ## SCRAPING YOUTUBE COMMENTS AND THEIR USERNAME
 
 
-In real life we cannot expect always to have the whole dataset in our table, most of the time  we need to extract them from the internet itself. So, i thought that youtube comments are also a great source of data which are available publicly and can be extracted. In this project, I scrapped comments and the username  from a youtube video and stored it in a excel file.
+In real life we cannot expect always to have the whole dataset in our table, most of the time  we need to extract them from the internet itself. So, i thought that youtube comments are also a great source of data which are available publicly and can be extracted. In this project, I scrapped comments and the username  from a youtube video and stored it into a excel file.
 
 This is the video from which i scrapped the comments : https://www.youtube.com/watch?v=uB5bf7LQPVU
 
